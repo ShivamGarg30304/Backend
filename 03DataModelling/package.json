@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mongoose": "^8.5.1"
+  },
+  "name": "03datamodelling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivam Garg",
+  "license": "ISC",
+  "description": ""
+}
